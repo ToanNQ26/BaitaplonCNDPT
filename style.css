@@ -38,7 +38,7 @@ nav a:hover {
 }
 .banner {
     height: 90vh;
-    background: url('img/background1.png') no-repeat center/cover;
+    background: url("./img/background1.png") no-repeat center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
